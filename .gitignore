@@ -21,3 +21,13 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+env
+**/*.pyc
+**/__pycache__
+node_modules
+build
+static
+media
+package-lock.json
